@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ThreeWindows"
         mc:Ignorable="d"
-        Title="Window2" Height="300" Width="300">
+        Title="Window2" Height="350" Width="525">
     <Grid>
-        
+        <Button x:Name="button" Content="Button3" HorizontalAlignment="Left" Margin="101,59,0,0" VerticalAlignment="Top" Width="100" Height="50"/>
+        <Label x:Name="label" Content="레이블3" HorizontalAlignment="Left" Margin="259,59,0,0" VerticalAlignment="Top" Width="150" Height="50"/>
     </Grid>
 </Window>

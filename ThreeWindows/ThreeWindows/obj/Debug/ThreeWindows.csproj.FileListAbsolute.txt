@@ -1,2 +1,19 @@
 c:\users\sm-pc\documents\visual studio 2015\Projects\ThreeWindows\ThreeWindows\bin\Debug\ThreeWindows.exe.config
 C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\bin\Debug\ThreeWindows.exe.config
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\bin\Debug\ThreeWindows.exe
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\bin\Debug\ThreeWindows.pdb
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows.csprojResolveAssemblyReference.cache
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\MainWindow.g.cs
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\Window1.g.cs
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\Window2.g.cs
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\App.g.cs
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows_MarkupCompile.cache
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows_MarkupCompile.lref
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\MainWindow.baml
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\Window1.baml
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\Window2.baml
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows.g.resources
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows.Properties.Resources.resources
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows.csproj.GenerateResource.Cache
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows.exe
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\obj\Debug\ThreeWindows.pdb

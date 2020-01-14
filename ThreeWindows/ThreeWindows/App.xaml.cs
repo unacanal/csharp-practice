@@ -13,5 +13,16 @@ namespace ThreeWindows
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+
+            // here you take control
+            Window1 w1 = new Window1();
+            w1.Show();
+            Window2 w2 = new Window2();
+            w2.Show();
+
+        }
     }
 }
