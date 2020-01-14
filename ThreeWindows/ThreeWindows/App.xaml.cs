@@ -18,9 +18,12 @@ namespace ThreeWindows
             base.OnStartup(e);
 
             // here you take control
+            MainWindow mw = new MainWindow();
             Window1 w1 = new Window1();
-            w1.Show();
             Window2 w2 = new Window2();
+
+            mw.Show();
+            w1.Show();
             w2.Show();
 
         }
