@@ -1,0 +1,2 @@
+c:\users\sm-pc\documents\visual studio 2015\Projects\ThreeWindows\ThreeWindows\bin\Debug\ThreeWindows.exe.config
+C:\Users\sm-pc\Documents\Project\csharp-practice\ThreeWindows\ThreeWindows\bin\Debug\ThreeWindows.exe.config
